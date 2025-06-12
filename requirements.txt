@@ -1,0 +1,6 @@
+flask
+langchain
+openai
+pymupdf
+faiss-cpu
+sentence-transformers
